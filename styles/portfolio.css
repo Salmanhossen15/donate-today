@@ -1,0 +1,47 @@
+.home-area{
+    background-image: url(../images/donation0.jpg);
+    height: 669px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dark-overlay{
+    background-color: rgba(0,0,0,.7);
+    height: 669px;
+}
+.home-content{
+    text-align: center;
+}
+.home-text{
+    text-align: center;
+}
+.home-text h1{
+    font-weight: 700;
+font-size: 65px;
+line-height: 79px;
+color: #FFFFFF;
+padding-bottom: 20px;
+padding-top: 174px;
+padding-left: 307px;
+padding-right: 307px;
+}   
+.home-text h5{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+}
+
+.home-btn{
+    color: #FFFFFF;
+    background: #FF5959;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+   
